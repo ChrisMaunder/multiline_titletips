@@ -6,7 +6,7 @@ A class that allows you to display data for a control that is otherwise not larg
 
 
 
-![Sample Image - Multiline_Titletips.gif](https://raw.githubusercontent.com/ChrisMaunder/multiline_titletips/master/docs/assets/Multiline_Titletips.gif)
+![Sample Image - Multiline_Titletips.gif](https://raw.githubusercontent.com/ChrisMaunder/multiline_titletips/master/docs/assets/multiline_titletips.gif)
 
 <!-- Article Starts -->
 
